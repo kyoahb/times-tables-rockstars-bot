@@ -19,6 +19,8 @@ POSTCODE=[Insert School Postcode Here]
 
 (This information is necessary to allow the bot to log in to your account)
 
+Then, run main.py in the virtual environment (or run start.bat, it does the same thing)
+
 Then, change settings using console to your desire and select a mode to play. The program will automatically log in to your account, and begin playing.
 
 # Todo:
